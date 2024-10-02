@@ -1,3 +1,6 @@
+package oop.designpatterns.construct
+
+
 // Abstract Product
 trait RDBConnection {
   def paint: String
